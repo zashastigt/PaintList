@@ -1,12 +1,17 @@
 {
     "PaintList": [
         {
-            "img": "https://www.w3schools.com/whatis/img_json.jpg",
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72001-1.jpg",
             "name": "Dead White",
             "brand": "Vallejo"
         },
+                {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70919-newIC.jpg",
+            "name": "Cold White",
+            "brand": "Vallejo"
+        },
         {
-            "img": "https://www.w3schools.com/whatis/img_json.jpg",
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70993-newIC.jpg",
             "name": "White Grey",
             "brand": "Vallejo"
         }

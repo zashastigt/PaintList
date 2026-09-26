@@ -1,5 +1,6 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
+import data from '../data.json'
 
 export interface Paint {
     img: string;
@@ -11,36 +12,37 @@ export const usePaintStore = defineStore('paint', () => {
     const savedPaints = localStorage.getItem('paintList')
 
     const paintList = ref<Paint[]>(
-        savedPaints ? JSON.parse(savedPaints) : []
+        // savedPaints ? JSON.parse(savedPaints) : []
+        data.PaintList
     )
 
-    function setItem(paint: Paint): void {
-        paintList.value.push(paint)
+    // function setItem(paint: Paint): void {
+    //     paintList.value.push(paint)
 
-        localStorage.setItem(
-        'paintList',
-        JSON.stringify(paintList.value)
-        )
-    }
+    //     localStorage.setItem(
+    //     'paintList',
+    //     JSON.stringify(paintList.value)
+    //     )
+    // }
 
-    function removeItem(index: number): void {
-        paintList.value.splice(index, 1)
+    // function removeItem(index: number): void {
+    //     paintList.value.splice(index, 1)
 
-        localStorage.setItem(
-        'paintList',
-        JSON.stringify(paintList.value)
-        )
-    }
+    //     localStorage.setItem(
+    //     'paintList',
+    //     JSON.stringify(paintList.value)
+    //     )
+    // }
 
-    function clearItems(): void {
-        paintList.value = []
-        localStorage.removeItem('paintList')
-    }
+    // function clearItems(): void {
+    //     paintList.value = []
+    //     localStorage.removeItem('paintList')
+    // }
 
     return {
         paintList,
-        setItem,
-        removeItem,
-        clearItems
+        // setItem,
+        // removeItem,
+        // clearItems
     }
 })
