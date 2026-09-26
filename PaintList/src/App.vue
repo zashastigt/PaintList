@@ -1,7 +1,13 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+
 </script>
 
 <template>
-  <HelloWorld />
+  <nav>
+    <RouterLink to="/">Paint List</RouterLink>
+    <RouterLink to="/addPaint">Add Paint</RouterLink>
+  </nav>
+  <main>
+    <RouterView />
+  </main>
 </template>

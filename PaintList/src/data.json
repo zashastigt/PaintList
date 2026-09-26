@@ -1,0 +1,14 @@
+{
+    "PaintList": [
+        {
+            "img": "https://www.w3schools.com/whatis/img_json.jpg",
+            "name": "Dead White",
+            "brand": "Vallejo"
+        },
+        {
+            "img": "https://www.w3schools.com/whatis/img_json.jpg",
+            "name": "White Grey",
+            "brand": "Vallejo"
+        }
+    ]
+}
