@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { reactive } from 'vue'
-import { usePaintStore, type Paint } from '../store/paint'
+import { usePaintStore} from '../store/paint'
+import ListRow from './ListRow.vue';
 
 const store = usePaintStore()
 
@@ -18,11 +18,8 @@ const store = usePaintStore()
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="(value, index) in store.paintList">
-                    <td><img :src="value.img" alt="" /></td>
-                    <td><span>{{ value.name }}</span></td>
-                    <td><span>{{ value.brand }}</span></td>
-                    <td><span>{{ value.line }}</span></td>
+                <tr v-for="value in store.paintList">
+                    <ListRow :img="value.img" :name="value.name" :brand="value.brand" :line="value.line" />
                 </tr>
             </tbody>
         </table>
