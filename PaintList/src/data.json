@@ -3,17 +3,1046 @@
         {
             "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72001-1.jpg",
             "name": "Dead White",
-            "brand": "Vallejo"
+            "brand": "Vallejo",
+            "line": "Game Color"
         },
                 {
             "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70919-newIC.jpg",
             "name": "Cold White",
-            "brand": "Vallejo"
+            "brand": "Vallejo",
+            "line": "Model Color"
         },
         {
             "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70993-newIC.jpg",
-            "name": "White Grey",
-            "brand": "Vallejo"
+            "name": "White Grey EMPTY",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70866-newIC.jpg",
+            "name": "Grey Green",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72024-1.jpg",
+            "name": "Turquoise",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72114-1.jpg",
+            "name": "Lustful Purple",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70771-newIC.jpg",
+            "name": "Dark Rust",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-game-air-76051-1.jpg",
+            "name": "Black",
+            "brand": "Vallejo",
+            "line":"Game Air"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72051-1.jpg",
+            "name": "Black",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70981-newIC.jpg",
+            "name": "Orange Brown",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-wash-73207-1.jpg",
+            "name": "Blue Wash",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72410-NewIC.jpg",
+            "name": "Gloomy Violet",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70921-newIC.jpg",
+            "name": "English Uniform",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72155-1.jpg",
+            "name": "Charcoal",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70905-newIC.jpg",
+            "name": "Blue Grey Pale",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72482-NewIC.jpg",
+            "name": "Monastic Green",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77158.jpg",
+            "name": "Rusty Metal Shade",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77118.jpg",
+            "name": "Rusty Metal Light",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77138.jpg",
+            "name": "Rusty Metal Base",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77122.jpg",
+            "name": "Radiant Yellow Base",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77142.jpg",
+            "name": "Radiant Yellow Shade",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2025/10/vallejo-true-metallic-metal-77102.jpg",
+            "name": "Radiant Yellow Light",
+            "brand": "Vallejo",
+            "line":"True Metallic Metal"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72457-NewIC.jpg",
+            "name": "Fairy Skin",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-game-air-76001-1.jpg",
+            "name": "Dead White",
+            "brand": "Vallejo",
+            "line":"Game Air"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72006-1.jpg",
+            "name": "Sun Yellow",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72451-NewIC.jpg",
+            "name": "Khaki Drill",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72116-1.jpg",
+            "name": "Midnight Purple",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72023-1.jpg",
+            "name": "Electric Blue",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72484-NewIC.jpg",
+            "name": "Hospitallier Black",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70908-newIC.jpg",
+            "name": "Carmine Red",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70755-newIC.jpg",
+            "name": "Light Emerald",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72095-1.jpg",
+            "name": "Glacier Blue",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70765-newIC.jpg",
+            "name": "Desert Tan",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72032-1.jpg",
+            "name": "Scorpy Green",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-fluo-72104-1.jpg",
+            "name": "Fluorescent Green",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72025-1.jpg",
+            "name": "Foul Green",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72010-1.jpg",
+            "name": "Bloody Red",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72029-1.jpg",
+            "name": "Sick Green",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70761-newIC.jpg",
+            "name": "Old Wood",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72474-NewIC.jpg",
+            "name": "Willow Bark",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72015-1.jpg",
+            "name": "Hexed Lichen",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72475-NewIC.jpg",
+            "name": "Muddy Ground",
+            "brand": "Vallejo",
+            "line":"Xpress Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70746-newIC.jpg",
+            "name": "Chestnut Brown",
+            "brand": "Vallejo",
+            "line":"Model Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72076-1.jpg",
+            "name": "Alien purple",
+            "brand": "Vallejo",
+            "line":"Game Color"
+        },
+        {
+            "img": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-game-air-76001-1.jpg",
+            "name": "Dead White",
+            "brand": "Vallejo",
+            "line":"Game Air"
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
+        },
+        {
+            "img": "",
+            "name": "",
+            "brand": "",
+            "line":""
         }
     ]
 }

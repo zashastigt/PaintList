@@ -4,54 +4,17 @@ import { usePaintStore, type Paint } from '../store/paint'
 
 const store = usePaintStore()
 
-
-// const paintList: Paint[] = JSON.parse(
-//     localStorage.getItem("paintList") ?? "[]"
-// )
-
-// const newPaint = reactive<Paint>({
-//     img: '',
-//     name: '',
-//     brand: ''
-// })
-
-// function addPaint(): void {
-//   store.setItem({ ...newPaint })
-
-//     newPaint.img = ''
-//     newPaint.name = ''
-//     newPaint.brand = ''
-// }
 </script>
 
 <template>
     <section>
-        <!-- <input
-            v-model="newPaint.name"
-            type="text"
-            placeholder="img"
-        />
-
-        <input
-            v-model="newPaint.name"
-            type="text"
-            placeholder="Name"
-        />
-
-        <input
-            v-model="newPaint.brand"
-            type="text"
-            placeholder="Brand"
-        />
-
-        <button @click="addPaint">Add</button> -->
-
         <table>
             <thead>
                 <tr>
                     <th scope="col">Image</th>
                     <th scope="col">Name</th>
                     <th scope="col">Brand</th>
+                    <th scope="col">Line</th>
                 </tr>
             </thead>
             <tbody>
@@ -59,12 +22,9 @@ const store = usePaintStore()
                     <td><img :src="value.img" alt="" /></td>
                     <td><span>{{ value.name }}</span></td>
                     <td><span>{{ value.brand }}</span></td>
-                    <!-- <button @click="store.removeItem(index)">
-                Remove
-                </button> -->
+                    <td><span>{{ value.line }}</span></td>
                 </tr>
             </tbody>
-            
         </table>
     </section>
 </template>

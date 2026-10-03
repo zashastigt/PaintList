@@ -4,8 +4,9 @@ import data from '../data.json'
 
 export interface Paint {
     img: string;
-    name: string
-    brand: string
+    name: string;
+    brand: string;
+    line: string;
 }
 
 export const usePaintStore = defineStore('paint', () => {
